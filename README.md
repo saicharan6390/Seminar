@@ -1,0 +1,2 @@
+# Seminar
+this sample repositary
